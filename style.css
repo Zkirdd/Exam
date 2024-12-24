@@ -1,0 +1,56 @@
+.f {
+    background-color: yellow;
+}
+.a {
+    background-color: aqua;
+    border-radius: 10%;
+    border: red solid;
+    text-align: center;
+}
+.b {
+    color: red;
+}
+.d {
+    background-color: yellow;
+    text-align: center;
+}
+.e {
+    background-color: yellow;
+    text-align: center;
+}
+.text {
+    color: green;
+}
+.block{
+    width: 1400px;
+}
+.A {
+    color: white;
+    background-color: blue;
+    width: 300px;
+    text-align: center;
+}
+.B {
+    background-color: yellow;
+    text-align: center;
+}
+.F {
+    background-color: black;
+    color: white;
+}
+.C {
+    color: white;
+    background-color: green;
+}
+.E {
+    color: white;
+    background-color: red;
+}
+.D {
+    color: white;
+    background-color: blue;
+}
+.G {
+    background-color: blue;
+    color: white;
+}
